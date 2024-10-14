@@ -1,0 +1,23 @@
+.feed{
+    width: 60vw;
+    background-color: black;
+    color: white;
+}
+
+.web-layout-base {
+    
+}
+
+.side-bar{
+    width: 20vw;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+
+}
+
+.explore {
+    width: 20vw;
+    background-color: black;
+    color: white;
+}
