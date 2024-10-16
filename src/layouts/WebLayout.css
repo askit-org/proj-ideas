@@ -4,11 +4,9 @@
     color: white;
 }
 
-.web-layout-base {
-    
-}
-
 .side-bar{
+    margin: 0;
+    padding: 0;
     width: 20vw;
     background-color: black;
     color: white;

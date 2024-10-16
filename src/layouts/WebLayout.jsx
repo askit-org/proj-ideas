@@ -12,7 +12,7 @@ const WebLayout = ({ children }) => {
         <Sidebar />
       </div>
       <div className='feed'>
-        feed
+        {children}
       </div>
       <div className='explore'>
         <ExploreSidebar />
